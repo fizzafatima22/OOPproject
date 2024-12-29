@@ -1,0 +1,1 @@
+1;Panadol;80;100;10;painkiller   22   11   123;panadol;70;100;22;painkiller   
